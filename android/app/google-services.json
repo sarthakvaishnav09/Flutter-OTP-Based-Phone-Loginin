@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988598410116",
+    "firebase_url": "https://flutter-firebase-d4ac6.firebaseio.com",
+    "project_id": "flutter-firebase-d4ac6",
+    "storage_bucket": "flutter-firebase-d4ac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988598410116:android:780b27e87991efa710dbd1",
+        "android_client_info": {
+          "package_name": "com.example.phoneLogginPractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988598410116-0bbs11f3mj0jk3och3p9r3inp9cq2q8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZofJuGyK0X2t-8tE34dWrABPxdRkE31s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988598410116-0bbs11f3mj0jk3och3p9r3inp9cq2q8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
