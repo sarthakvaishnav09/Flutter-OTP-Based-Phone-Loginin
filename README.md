@@ -1,6 +1,6 @@
-# phoneLogginPractice
+# OTP based phone login
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
